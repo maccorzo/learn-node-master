@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+haters/
+npm-debug.log
+yarn-error.log
+.vscode
+*.log
+variables.env.now
+variables.env
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
